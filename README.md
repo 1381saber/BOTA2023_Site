@@ -33,3 +33,8 @@ The website can be customized to fit specific requirements. Here are a few custo
 
 ## Contributions
 Contributions to the AI Community Registration Website are welcome. If you encounter any issues or have suggestions for improvements, please submit them through the repository's issue tracker.
+
+<img width="1440" alt="Screenshot 1402-07-29 at 20 48 26" src="https://github.com/1381saber/Bota2023_Site/assets/87490751/eb254182-df0b-4414-8539-e9dc38cd58f9">
+<img width="1440" alt="Screenshot 1402-07-29 at 20 48 39" src="https://github.com/1381saber/Bota2023_Site/assets/87490751/e70fa200-e785-4119-9c05-6b41e7e0fedc">
+<img width="1440" alt="Screenshot 1402-07-29 at 20 48 55" src="https://github.com/1381saber/Bota2023_Site/assets/87490751/6f523c37-7717-4e71-9ddd-4d4d3d24035b">
+
