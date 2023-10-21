@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Vazir;
+    font-style: normal;
+    src: url("./fonts/Vazirmatn-Regular.woff2") format(woff2);
+  }
+@font-face {
+    font-family: Vazir;
+    font-style: normal;
+    src: url("./fonts/Vazirmatn-Light.woff2") format(woff2);
+  }
+@font-face {
+    font-family: Vazir;
+    font-style: normal;
+    src: url("./fonts/Vazirmatn-Medium.woff2") format(woff2);
+  }
+@font-face {
+    font-family: Vazir;
+    font-style: normal;
+    src: url("./fonts/Vazirmatn-Bold.woff2") format(woff2);
+  } 
+@font-face {
+    font-family: Bota;
+    font-style: normal;
+    src: url(/fonts/IRAN-Rounded.woff) format(woff);
+  }
+
+
+*{
+font-family: 'Vazirmatn', sans-serif;
+}
